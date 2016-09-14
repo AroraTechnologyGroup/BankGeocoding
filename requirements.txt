@@ -1,0 +1,9 @@
+et-xmlfile==1.0.1
+future==0.15.2
+jdcal==1.2
+Metafone==0.5
+openpyxl==2.3.5
+probableparsing==0.0.1
+python-crfsuite==0.8.4
+usaddress==0.5.7
+wheel==0.24.0
